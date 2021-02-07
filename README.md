@@ -3,7 +3,7 @@
 
 ## Beleiu Nicoleta 
 
-Self-learning Front end developer, eager to become a full-stack develor.
+Self-learning Front-end development, eager to become a full-stack develor.
 
 ## Skills 
 

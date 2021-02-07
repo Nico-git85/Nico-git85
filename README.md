@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![](NicoProfil.PNG)
 
 ## Beleiu Nicoleta 

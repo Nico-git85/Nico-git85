@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src = "C:/Users/Nico/Desktop/github/NicoProfil.png" width = 250 >
+<img src = "C:/Users/Nico/Desktop/github/NicoProfil.png" >
 
 ## Beleiu Nicoleta 
 

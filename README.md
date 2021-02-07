@@ -7,11 +7,11 @@ Self-learning Front-end development, eager to become a full-stack develor.
 
 ## Skills 
 
-• HTML
-• CSS
-• Javascript
-• React
-• Bootstrap
+- HTML
+- CSS
+- Javascript
+- React
+- Bootstrap
 
 Here are some ideas to get you started:
 

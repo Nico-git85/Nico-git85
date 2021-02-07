@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src = "C:/Users/Nico/Desktop/github/NicoProfil.png" >
+<img src = "C:https://www.canva.com/design/DAEVcav9ILg/bFSTMrD1ePgccgGaL-YuIQ/edit" >
 
 ## Beleiu Nicoleta 
 

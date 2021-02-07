@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Nico-git85/Nico-git85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img src = "C:\Users\Nico\Desktop\github\NicoProfil.png" width = 250 >
+<img src = "C:/Users/Nico/Desktop/github/NicoProfil.png" width = 250 >
 
 ## Beleiu Nicoleta 
 
@@ -25,4 +23,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: balan_nicky@yahoo.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I like reading, travel and making sport.Enjoy time with my family
--->
+

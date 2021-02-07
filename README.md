@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about front end development 
 - 📫 How to reach me: balan_nicky@yahoo.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I like reading, travel and making sport.Enjoy time with my family
+- ⚡ Fun fact: I like reading, travel and making sport. Spending time with my family ❤
 

@@ -2,8 +2,7 @@
 
 <!--
 **Nico-git85/Nico-git85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<img src = "C:\Users\Nico\Desktop\github" width = "250">
+<img src = "C:\Users\Nico\Desktop\github\NicoProfil.png" width = 250 >
 
 ## Beleiu Nicoleta 
 

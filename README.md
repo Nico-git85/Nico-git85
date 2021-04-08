@@ -1,5 +1,6 @@
 ## Hallo, alle zusammen!👋
 ![](NicoProfil1.PNG)
+![](git.png)
 
 ## Beleiu Nicoleta 
 

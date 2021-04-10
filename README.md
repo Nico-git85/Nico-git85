@@ -13,6 +13,7 @@ Self-learning Front-end development, eager to become a full-stack developer.
 - Javascript
 - React
 - Bootstrap
+- Ember
 
 Here are some ideas to get you started:
 

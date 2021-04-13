@@ -22,15 +22,11 @@ Self-learning Front-end development, eager to become a full-stack developer.
 
 ## &#x1f4c8; My Github Stats 
 
-<a href="https://github.com/Nico-git85/Nico-git85">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nico-git85&hide=java&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-  </a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nico-git85&hide=java&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-
-
-
+[![Nico's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nico-git85&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 Here are some ideas to get you started:

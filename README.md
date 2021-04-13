@@ -1,7 +1,7 @@
 ## Hallo, liebe Leute  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Beleiu Nicoleta
 ...
 
-![](Nico.Profil.Git.png)
+![](NicoProfil1.PNG)
 
 ![](git.png)
 
@@ -20,14 +20,17 @@ Self-learning Front-end development, eager to become a full-stack developer.
 
 
 
-## Skills 
+## &#x1f4c8; My Github Stats 
 
-- HTML
-- CSS
-- Javascript
-- React
-- Bootstrap
-- Ember
+<a href="https://github.com/Nico-git85/Nico-git85">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nico-git85&hide=java&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+
+
+
+
+
+
+
 
 Here are some ideas to get you started:
 

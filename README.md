@@ -13,6 +13,13 @@
 
 Self-learning Front-end development, eager to become a full-stack developer.
 
+
+🧰 Toolbox
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html logo" width="50"  heigth="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS logo" width="50" heigth="50" />  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript tool icon" width="50" heigth="50" /> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react logo" width="50" heigth="50" /> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="bootstrap logo" width="50" heigth="50" /> <img src="https://cdn.worldvectorlogo.com/logos/ember-tomster.svg" alt="logo ember" width="50" heigth="50" /> <img src="https://cdn.worldvectorlogo.com/logos/aws-logo.svg" alt="aws logo" width="50" heigth="50" /> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="node.js icon" width="50" heigth="50" /> <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="icon sass" width="50" heith="50" /> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="visual icon" width="50" heigth="50" /> 
+
+
+
 ## Skills 
 
 - HTML

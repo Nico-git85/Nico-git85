@@ -1,8 +1,13 @@
-## Hallo, alle zusammen!👋
+## Hallo, liebe Leute  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Beleiu Nicoleta
 ![](NicoProfil1.PNG)
 ![](git.png)
 
-## Beleiu Nicoleta 
+....
+
+![GitHub followers](https://img.shields.io/github/followers/Nico-git85?style=social)
+![Twitter URL](https://img.shields.io/twitter/url?label=My%20Twitter%20Profil&style=social&url=https%3A%2F%2Ftwitter.com%2FNicoletaBeleiu)
+![YouTube Video Views](https://img.shields.io/youtube/views/UC8Oxwmj3CFuI8TuS5Fo1Ujw?label=In%20progress&style=social)
+
 
 Self-learning Front-end development, eager to become a full-stack developer.
 

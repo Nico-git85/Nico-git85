@@ -2,7 +2,8 @@
 
 ![](NicoProfil1.PNG)
 
-![](git.png) - ID scan app : fo99fi4qiz
+![Pirple-com - Frontend Fundamentals](git.png) 
+![Javascript Sololearn Certificate](javascript.png)
 
 
 [![GitHub followers](https://img.shields.io/github/followers/Nico-git85?style=social)](https://github.com/Nico-git85)

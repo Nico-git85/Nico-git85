@@ -36,6 +36,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on web development project/freelancing/full time job
 - 💬 Ask me about front end development 
 - 📫 How to reach me: balan_nicky@yahoo.com
-- 😄 Pronouns: she/her
 - ⚡ Fun fact: I like reading, traveling and making sport. Spending time with my family ❤
 

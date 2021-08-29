@@ -4,6 +4,7 @@
 
 ![Pirple-com - Frontend Fundamentals](git.png) 
 ![Javascript Sololearn Certificate](javascript.png)
+![PIU-Universitatea Tehnica-Cluj-Napoca](PIU.PNG)
 
 
 [![GitHub followers](https://img.shields.io/github/followers/Nico-git85?style=social)](https://github.com/Nico-git85)

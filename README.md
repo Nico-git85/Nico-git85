@@ -1,10 +1,7 @@
-## Hallo liebe Leute  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I am Beleiu Nicoleta
+## Hallo liebe Leute  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I am Beleiu Nicolet
 
+![](C:\Users\Nico\Desktop\github\Nico.Profil.Git.png)
 
-
-![Pirple-com - Frontend Fundamentals](git.png) 
-![Javascript Sololearn Certificate](javascript.png)
-![](programare.png)
 
 
 [![GitHub followers](https://img.shields.io/github/followers/Nico-git85?style=social)](https://github.com/Nico-git85)

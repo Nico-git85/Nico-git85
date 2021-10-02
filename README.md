@@ -23,9 +23,6 @@ Self-learning Front-end development, eager to become a full-stack developer.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nico-git85&hide=java&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Nico's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nico-git85&hide=java&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on becoming a Front end Developer

@@ -5,7 +5,6 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/Nico-git85?style=social)](https://github.com/Nico-git85)
 [![Twitter URL](https://img.shields.io/twitter/url?label=My%20Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FNicoletaBeleiu)](https://twitter.com/NicoletaBeleiu)
-![YouTube Video Views](https://img.shields.io/youtube/views/UC8Oxwmj3CFuI8TuS5Fo1Ujw?label=In%20progress&style=social)
 
 
 Self-learning Front-end development, eager to become a full-stack developer.
